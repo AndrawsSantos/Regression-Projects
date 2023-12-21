@@ -1,6 +1,4 @@
-# Regression project
-
-This repository contains a project on health insurance regression.
+# Health Insurance Regression project
 
 Here you can find:
 - Jupyter notebook with the code.
